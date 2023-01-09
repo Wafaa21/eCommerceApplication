@@ -1,0 +1,33 @@
+2023-01-08 13:49:43,687 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-1IESIT4 with PID 24484 (started by Wafa in C:\Users\Wafa\Desktop\Java Web Developer Nanodegree\4- Security and DEVOPS\JDND-master\projects\P04-eCommerce Application)
+2023-01-08 13:49:43,700 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-08 13:49:43,701 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-01-08 13:49:53,838 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-01-08 13:49:55,317 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 12.484 seconds (JVM running for 16.067)
+2023-01-08 13:49:55,329 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-01-08 13:54:38,825 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-1IESIT4 with PID 21340 (started by Wafa in C:\Users\Wafa\Desktop\Java Web Developer Nanodegree\4- Security and DEVOPS\JDND-master\projects\P04-eCommerce Application)
+2023-01-08 13:54:38,838 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-08 13:54:38,840 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-01-08 13:54:47,649 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-01-08 13:54:49,062 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 10.837 seconds (JVM running for 12.912)
+2023-01-08 13:54:49,065 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-01-08 18:06:15,378 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-1IESIT4 with PID 39068 (started by Wafa in C:\Users\Wafa\Desktop\Java Web Developer Nanodegree\4- Security and DEVOPS\JDND-master\projects\P04-eCommerce Application)
+2023-01-08 18:06:15,390 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-08 18:06:15,391 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-01-08 18:06:24,001 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-01-08 18:06:25,533 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 10.913 seconds (JVM running for 12.993)
+2023-01-08 18:06:25,537 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-01-08 18:07:23,744 DEBUG c.e.d.s.JWTAuthenticationFilter [http-nio-8080-exec-2] Request is to process authentication
+2023-01-08 18:09:12,245 INFO c.e.d.c.UserController [http-nio-8080-exec-7] User name set with
+2023-01-08 18:14:33,105 INFO c.e.d.c.UserController [http-nio-8080-exec-9] Item id added to the cart
+2023-01-08 18:14:46,146 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Order is submitted successfully
+2023-01-08 18:16:51,701 INFO c.e.d.c.UserController [http-nio-8080-exec-2] User name set with
+2023-01-08 18:17:49,749 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-1IESIT4 with PID 12092 (started by Wafa in C:\Users\Wafa\Desktop\Java Web Developer Nanodegree\4- Security and DEVOPS\JDND-master\projects\P04-eCommerce Application)
+2023-01-08 18:17:49,765 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-08 18:17:49,767 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-01-08 18:17:56,230 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-01-08 18:17:57,374 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 8.192 seconds (JVM running for 9.869)
+2023-01-08 18:17:57,378 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2023-01-08 18:18:07,392 INFO c.e.d.c.UserController [http-nio-8080-exec-3] User name set with
+2023-01-08 18:18:07,514 ERROR c.e.d.c.UserController [http-nio-8080-exec-3] password invalid, require: length bigger than 7 or passwords not match
+2023-01-08 18:27:16,614 INFO c.e.d.c.UserController [http-nio-8080-exec-5] User name set with
+2023-01-08 18:27:37,518 ERROR c.e.d.c.UserController [http-nio-8080-exec-2] Username is missed
